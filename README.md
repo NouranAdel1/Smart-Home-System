@@ -21,6 +21,18 @@ Once authenticated, the user is presented with a list of options on the mobile a
 - **Fire Safety System (LM35 Sensor)**:
   - At **30°C**, the fan automatically activates.
   - At **70°C**, both a buzzer and a red LED are triggered to alert the user of a fire hazard 🔥.
+ 
+## Repository Structure
+
+This repository contains the following directories and files:
+
+- **MCAL**: This directory includes drivers for interfacing with microcontroller peripherals.
+- **HAL**: Contains higher-level abstractions for specific hardware functionalities.
+- **LIB**: Includes utility functions and common definitions.
+- **main.c**: The main entry point of the application, containing the `main()` function and core logic.
+- **proteus.mp4**: A video demonstrating the simulation or functioning of the smart home system in Proteus.
+- **smarthomesystem.pdsprj**: A Proteus project file with schematics and simulation settings for the smart home system.
+
 
 ## Hardware and Software Requirements 🛠️
 - **Microcontroller**: AVR-based microcontroller
