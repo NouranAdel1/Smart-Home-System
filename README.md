@@ -2,6 +2,12 @@
 
 This project is a **Smart Home Automation System** that allows users to control various home components such as doors, fans, and lights. It features real-time status updates on an LCD and includes fire safety and light detection systems, all controlled remotely via a mobile app. The project includes password protection with limited login attempts and hardware safety features.
 
+
+## Video Demo 🎥
+- **A Video demo of Project simulation using Proteus** of the  is available here : https://drive.google.com/file/d/1TEnvhqRIdksOgspk1VeWsCTg36OjB2wd/view?usp=sharing
+- To check an actual **hardware demonstration** : https://drive.google.com/file/d/1ocPjh16BgtIy2B6YKTEFRNZhMOkvQA7j/view
+
+
 ## Features 🌟
 
 ### 1. **User Authentication 🔒**
@@ -30,7 +36,6 @@ This repository contains the following directories and files:
 - **HAL**: Contains higher-level abstractions for specific hardware functionalities.
 - **LIB**: Includes utility functions and common definitions.
 - **main.c**: The main entry point of the application, containing the `main()` function and core logic.
-- **proteus.mp4**: A video demonstrating the simulation or functioning of the smart home system in Proteus.
 - **smarthomesystem.pdsprj**: A Proteus project file with schematics and simulation settings for the smart home system.
 
 
@@ -46,9 +51,5 @@ This repository contains the following directories and files:
 - **LCD Display**: To show real-time status updates and security messages
 - **Mobile Application**: For remote control of the system
 
-  
-## Video Demo 🎥
-- A **video demo** of the project simulation using Proteus is available in the repository.
-- To check an actual **hardware demonstration** : https://drive.google.com/file/d/1ocPjh16BgtIy2B6YKTEFRNZhMOkvQA7j/view
 
 Enjoy automating your home with our Smart Home System! 🏡🔧
